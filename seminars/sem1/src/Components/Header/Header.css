@@ -1,0 +1,9 @@
+.mainPage__header{
+  width: 100%;
+}
+
+.mainPage__title{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 600;
+}

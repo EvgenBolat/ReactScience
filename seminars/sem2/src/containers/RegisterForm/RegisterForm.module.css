@@ -1,0 +1,23 @@
+.register-form{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.register-form__input{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.register-form__input input:focus{
+  border: 1px solid green;
+}
+
+.register-form__button{
+  color: green;
+}
+
+.register-form__button:disabled{
+  color: gray;
+}
